@@ -1,0 +1,10 @@
+{
+    "global" : {
+        "gateway_ip" : "gateway_ip",
+        "target_ip" : "device_ip",
+        "interface" : "your_interface"
+    },
+    "infos" : {
+        "version" : 0.1
+    }
+}
